@@ -1,0 +1,1 @@
+{"timedTasks":[{"mDelay":0,"mInterval":0,"mLoopTimes":1,"mMillis":1723023712780,"mScheduled":true,"mScriptPath":"/storage/emulated/0/脚本/ding-master-master/main.js","mTimeFlag":0,"mId":1241}],"intentTasks":[{"mAction":"org.autojs.autojs.action.startup","mLocal":true,"mScriptPath":"/storage/emulated/0/脚本/ding-master-master/lib/prototype/CrashCatcher.js","mId":75}]}
